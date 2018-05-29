@@ -1,6 +1,12 @@
-# Attachment
+# Artificial Composition of Multi-Instrumental Polyphonic Music
 
-The whole attachment is divided into four different folders that are briefly described below. More details can be found in readme files contained in each of them.
+## Abstract
+
+We propose a generative model for artificial composition of both classical and popular music with the goal of producing music as well as humans do. The problem is that music is based on a highly sophisticated hierarchical structureanditishardtomeasureitsqualityautomatically. Contrarytoother’swork, we try to generate a symbolic representation of music with multiple different instruments playing simultaneously to cover a broader musical space. We train three modules based on LSTM networks to generate the music; a lot of effort is put into reducing high complexity of multi-instrumental music representation by a thorough musical analysis. Our work serves mainly as a proof-of-concept for music composition. We believe that the proposed preprocessing techniques and symbolic representation constitute a useful resource for future research in this field. 
+
+## Overview
+
+The repository is divided into four different folders that are briefly described below. More details can be found in readme files contained in each of them.
 
 
 ## Analyzer
