@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PianoRoll.exe" version="3.0.0.2" publicKeyToken="80c168127b3f9622" language="en" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="rohlajs.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PianoRoll" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PianoRoll.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MathExtension.dll" size="10240">
+      <assemblyIdentity name="MathExtension" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V4dA2L+ZMCJU7IVo0iMfonHJjKVn0uqQ5EAq6v1TIjo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.WindowsAPICodePack.dll" size="102912">
+      <assemblyIdentity name="Microsoft.WindowsAPICodePack" version="1.1.3.2" publicKeyToken="8985BEAAB7EA3F04" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>j7bSgHeGphHuBmPOU/XwGMUF2FhNCO/c/8fhFfLZZ40=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.WindowsAPICodePack.Shell.dll" size="508928">
+      <assemblyIdentity name="Microsoft.WindowsAPICodePack.Shell" version="1.1.3.2" publicKeyToken="8985BEAAB7EA3F04" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>S96N8oNYuyhxjQPBW1FVaRxWe8ViGHMc7NuubUVFU9k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Midi.dll" size="55296">
+      <assemblyIdentity name="Midi" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IzHIvVkrz4jaM9k4dOMvHoGLejC4IVFhutpkEyrtC3A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MidiModel.dll" size="30208">
+      <assemblyIdentity name="MidiModel" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>TzO8Mt2KYrVRUUUmuNv4Zzy3lQNF5VwmPFeIf78W1KI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MidiParser.dll" size="59110400">
+      <assemblyIdentity name="MidiParser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>orbdr6SL0l9uIkqSFBeglamWzbl2Fn9VQl4eiq51cZU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MusParser.dll" size="18432">
+      <assemblyIdentity name="MusParser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LKZYqTh1fvwFcxSaML8WtRnYtLHrJ+La9zu+9W2CWSo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PianoRoll.exe" size="106920">
+      <assemblyIdentity name="PianoRoll" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>X0ePUNVtNoklIENfkeG9OWutmL48buTAwWyud1wWUHU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpLearning.Common.Interfaces.dll" size="5120">
+      <assemblyIdentity name="SharpLearning.Common.Interfaces" version="0.26.9.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kj33aPo1N30ZECLDti/LD666FOSpBt7nQjNe0Y1oPPA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpLearning.Containers.dll" size="36352">
+      <assemblyIdentity name="SharpLearning.Containers" version="0.26.9.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YMTOS/LdcK2ND/rz4sEQ2ZALg/TqbFylH6mRtcHB2fk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpLearning.DecisionTrees.dll" size="29184">
+      <assemblyIdentity name="SharpLearning.DecisionTrees" version="0.26.9.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6ZLA9coc72Cgpha9WUwLWSoAx3uFxXQM2seFSSkDhjc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpLearning.InputOutput.dll" size="30720">
+      <assemblyIdentity name="SharpLearning.InputOutput" version="0.26.9.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ufBI/VkPbiF+MZq8/QO2iZUjZTtdapz36Q903F+LoLE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpLearning.RandomForest.dll" size="23040">
+      <assemblyIdentity name="SharpLearning.RandomForest" version="0.26.9.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yW7XH6ZA18Qfx8X2KcXIoPDqsML5VGvFjq02sMvY+KA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SkiaSharp.dll" size="223272">
+      <assemblyIdentity name="SkiaSharp" version="1.60.0.0" publicKeyToken="0738EB9F132ED756" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hkSo1sWNJlpI0VwFySW3kxxUXGjVJh4dMQvgCcx7e7E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="libSkiaSharp.dll" size="4859904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XnuvDM/uz8RaIkKp+lSwzbSHPXzqG61jwexsbZOiLLk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libSkiaSharp.dylib" size="10693488">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LYYOtnShl3X+c65egV1sJTR2gWDy5biqAR5P60D0KPQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PianoRoll.exe.config" size="2685">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Aywv++Wp1OVcDpZOqtx5/pBXgF3RxOTJeZ2qWcqUB4g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rohlajs.ico" size="38096">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2mY2HEzHjmOQUu/MJ+SBcMpdIsNckSkU6pOgDgVy4Sc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <fileAssociation extension=".in" description="LSTM input" progid="LSTMin" defaultIcon="rohlajs.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <fileAssociation extension=".mid" description="Standard MIDI file" progid="StdMidi" defaultIcon="rohlajs.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <fileAssociation extension=".mus" description="Textual representation of notes" progid="StdMus" defaultIcon="rohlajs.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <fileAssociation extension=".musx" description="Compressed textual representation of notes" progid="CompMus" defaultIcon="rohlajs.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <fileAssociation extension=".notes" description="Melisma music format" progid="Notes" defaultIcon="rohlajs.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DAVID\David" issuerKeyHash="7db05b2f6189c21e4271a41c213552209dc5f9fb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>A3YEYcWj1qLCR/a4z6iApVNWp9U4TWGWjCved2Ss22Q=</DigestValue></Reference></SignedInfo><SignatureValue>EJ5/SgRPtkQEUh7BRiKgiLjUxF4bU1Bv70U/58DQj6LI05pT8rLrC04N6OUedi28UPiBDe31SfLD3C+ePOSuxnksGvww32crGOruwyj7RuvAsY26xHmEsf3z1YqxyaVspNh1OWrnTTgvmnPhyPfJlKrB1UOuTcn4rjasO9yhEfo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y2/0el90DUayalcapb1l9ppIpleBVCpgxN6+d5MuQoU66q/AeD4uAguxDn4Xe5u4ACZ7n4UaSXvvuw6knWaQA9AI+aLpuDe/5IiZThc0RQu9BsRxTNntRn15fI8oHNbH2ay0y/PP7M7NJ78gygMU0vFbsfMha0HmxDNge9Hzr5E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="64dbac6477de2b8c96614d38d5a75653a580a8cfb8f647c2a2d6a3c561047603" Description="" Url=""><as:assemblyIdentity name="PianoRoll.exe" version="3.0.0.2" publicKeyToken="80c168127b3f9622" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DAVID\David</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8v7fw8pL1yxBGyzshSYj2rfWbpgxB+s84PuvDBZkvDg=</DigestValue></Reference></SignedInfo><SignatureValue>Ii2p3uVqR/TwMKgiXc1UzLTmBbbEmvsb8neuOGkwwv5SZwydMNUu2rY7OhiywUNrBtdyTWm529SNQ1qglju+7L7Vybi1ELy4Fc4wpWmeMPFeTEzYedrRAB68LWk9fAHILpvp27iFxDM6Wo4aYp1tykau5dPdzNP/n7EO78GiqxM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y2/0el90DUayalcapb1l9ppIpleBVCpgxN6+d5MuQoU66q/AeD4uAguxDn4Xe5u4ACZ7n4UaSXvvuw6knWaQA9AI+aLpuDe/5IiZThc0RQu9BsRxTNntRn15fI8oHNbH2ay0y/PP7M7NJ78gygMU0vFbsfMha0HmxDNge9Hzr5E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQMmd3qsE4s5VDNAiaU+qp5DANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYARABBAFYASQBEAFwARABhAHYAaQBkMB4XDTE3MDgxNTE1MjAxMFoXDTE4MDgxNTIxMjAxMFowITEfMB0GA1UEAx4WAEQAQQBWAEkARABcAEQAYQB2AGkAZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy2/0el90DUayalcapb1l9ppIpleBVCpgxN6+d5MuQoU66q/AeD4uAguxDn4Xe5u4ACZ7n4UaSXvvuw6knWaQA9AI+aLpuDe/5IiZThc0RQu9BsRxTNntRn15fI8oHNbH2ay0y/PP7M7NJ78gygMU0vFbsfMha0HmxDNge9Hzr5ECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAw+JOmb79AQaWAgWv5MOm6M0t2RD1SPRvcdAZxp+eP3xf7HwHLrW1CFZWYBM/2fs/p+sYov1usGQ191V6oX/ggYy3HkxcoULOCMBjkvLFlKsYKY0l9rNa/lbKMWNjbrCf6IPvNG74WmyF6bIWak4UUoEVLC/q6MlqY3FBnjx1EjA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
