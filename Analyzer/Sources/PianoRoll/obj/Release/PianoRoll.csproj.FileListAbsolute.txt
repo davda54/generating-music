@@ -1,0 +1,156 @@
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SkiaSharp.dll.config
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\libSkiaSharp.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\libSkiaSharp.dylib
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\x86\libSkiaSharp.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\x64\libSkiaSharp.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\rohlajs.ico
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\PianoRoll.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\PianoRoll.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\PianoRoll.application
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\PianoRoll.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\PianoRoll.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Midi.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MidiModel.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MidiParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\NotefileParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SkiaSharp.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MidiModel.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MidiParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MidiParser.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MusParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\NotefileParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\NotefileParser.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Midi.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SkiaSharp.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\Gui\MainWindow.baml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\Gui\MainWindow.g.cs
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\Gui\Settings.g.cs
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\App.g.cs
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll_Content.g.cs
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll_MarkupCompile.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll_MarkupCompile.lref
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\App.baml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\Resources\Colours.baml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\Resources\DarkStyle.baml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\Gui\Settings.baml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.g.resources
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.Properties.Resources.resources
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.application
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.TrustInfo.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\KNN classification.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MathExtension.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.MachineLearning.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Math.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Neuro.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Statistics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Controls.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Math.Core.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Genetic.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\ZedGraph.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\KNN classification.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\KNN classification.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MathExtension.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.MachineLearning.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Math.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Neuro.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Statistics.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Controls.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.dll.config
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Math.Core.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\Accord.Genetic.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\ZedGraph.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\de\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\es\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\it\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\obj\Release\PianoRoll.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\MusParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.Containers.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.InputOutput.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.RandomForest.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.Common.Interfaces.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.DecisionTrees.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.Containers.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.InputOutput.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.RandomForest.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.Common.Interfaces.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.DecisionTrees.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.Metrics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\PianoRoll\bin\Release\SharpLearning.Metrics.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\libSkiaSharp.dylib
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\libSkiaSharp.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\x86\libSkiaSharp.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\x64\libSkiaSharp.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SkiaSharp.dll.config
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\rohlajs.ico
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\PianoRoll.exe.config
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\PianoRoll.exe.manifest
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\PianoRoll.application
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\PianoRoll.exe
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\PianoRoll.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\Midi.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MidiModel.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SkiaSharp.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MathExtension.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MidiModel.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MidiParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MusParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\Midi.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SkiaSharp.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MathExtension.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Gui\MainWindow.baml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Gui\MainWindow.g.cs
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Gui\Settings.g.cs
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\App.g.cs
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll_Content.g.cs
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll_MarkupCompile.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll_MarkupCompile.lref
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\App.baml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Resources\Colours.baml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Resources\DarkStyle.baml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Gui\Settings.baml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.g.resources
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.Properties.Resources.resources
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.csproj.GenerateResource.Cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.csproj.CoreCompileInputs.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.TrustInfo.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.exe.manifest
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.application
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.exe
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\PianoRoll.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\Microsoft.WindowsAPICodePack.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Gui\ProgressBar.baml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\obj\Release\Gui\ProgressBar.g.cs
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.RandomForest.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.Containers.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.InputOutput.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.Common.Interfaces.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.DecisionTrees.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.RandomForest.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.Containers.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.InputOutput.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.Common.Interfaces.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\SharpLearning.DecisionTrees.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MidiParser.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MusParser.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\PianoRoll\bin\Release\MidiParser.dll.config
