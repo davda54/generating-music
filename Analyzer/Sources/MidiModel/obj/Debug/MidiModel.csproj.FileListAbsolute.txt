@@ -1,0 +1,36 @@
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\MidiModel.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\MidiModel.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\Midi.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\Midi.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\obj\Debug\MidiModel.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\obj\Debug\MidiModel.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\obj\Debug\MidiModel.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\obj\Debug\MidiModel.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\MathExtension.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\MathExtension.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.Common.Interfaces.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.Containers.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.CrossValidation.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.DecisionTrees.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.FeatureTransformations.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.InputOutput.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.Metrics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.RandomForest.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.Common.Interfaces.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.Containers.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.CrossValidation.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.DecisionTrees.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.FeatureTransformations.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.InputOutput.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.Metrics.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiModel\bin\Debug\SharpLearning.RandomForest.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\bin\Debug\MidiModel.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\bin\Debug\MidiModel.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\bin\Debug\MathExtension.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\bin\Debug\Midi.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\bin\Debug\MathExtension.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\bin\Debug\Midi.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\obj\Debug\MidiModel.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\obj\Debug\MidiModel.csproj.CoreCompileInputs.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\obj\Debug\MidiModel.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiModel\obj\Debug\MidiModel.pdb
