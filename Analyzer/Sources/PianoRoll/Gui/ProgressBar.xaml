@@ -1,0 +1,8 @@
+﻿<Window x:Class="PianoRoll.ProgressBar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Converting files, please wait" Height="90" Width="500">
+    <Grid Margin="20">
+        <ProgressBar Minimum="0" Maximum="100" Name="Progress" />
+    </Grid>
+</Window>
