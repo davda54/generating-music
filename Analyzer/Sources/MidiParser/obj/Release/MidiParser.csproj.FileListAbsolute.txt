@@ -1,0 +1,59 @@
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiParser.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiParser.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiParser.application
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\Midi.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiModel.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MiscUtil.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MidiModel.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\Midi.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MiscUtil.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.TrustInfo.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.application
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\obj\Release\MidiParser.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MathExtension.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\MathExtension.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.Containers.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.InputOutput.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.RandomForest.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.Common.Interfaces.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.DecisionTrees.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.Containers.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.InputOutput.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.RandomForest.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.Common.Interfaces.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.DecisionTrees.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.Metrics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MidiParser\bin\Release\SharpLearning.Metrics.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MidiParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MathExtension.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\Midi.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MidiModel.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MiscUtil.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.RandomForest.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.InputOutput.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.Containers.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.Common.Interfaces.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.DecisionTrees.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MathExtension.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MidiModel.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\Midi.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MiscUtil.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.RandomForest.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.InputOutput.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.Containers.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.Common.Interfaces.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\SharpLearning.DecisionTrees.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\obj\Release\MidiParser.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\obj\Release\MidiParser.csproj.CoreCompileInputs.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\obj\Release\MidiParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\obj\Release\MidiParser.Properties.Resources.resources
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\obj\Release\MidiParser.csproj.GenerateResource.Cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MidiParser.dll.config
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\bin\Release\MidiParser.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MidiParser\obj\Release\MidiParser.dll
