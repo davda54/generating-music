@@ -1,0 +1,92 @@
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MusParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MidiModel.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Midi.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MidiModel.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Midi.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MathExtension.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MathExtension.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.dll.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\KNN classification.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MidiParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.MachineLearning.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Math.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Neuro.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Statistics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Controls.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Math.Core.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Genetic.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\ZedGraph.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\KNN classification.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\KNN classification.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MidiParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MidiParser.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.MachineLearning.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Math.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Neuro.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Statistics.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Controls.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Math.Core.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\Accord.Genetic.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\ZedGraph.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\de\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\es\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\it\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MusParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MusParser.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\MusParser.application
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.TrustInfo.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Release\MusParser.application
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.Containers.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.InputOutput.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.RandomForest.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.Common.Interfaces.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.DecisionTrees.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.Containers.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.InputOutput.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.RandomForest.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.Common.Interfaces.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.DecisionTrees.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.Metrics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Release\SharpLearning.Metrics.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MusParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MathExtension.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MidiModel.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\Midi.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MathExtension.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MidiModel.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MidiParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\Midi.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Release\MusParser.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Release\MusParser.csproj.CoreCompileInputs.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Release\MusParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.RandomForest.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.Containers.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.InputOutput.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.Common.Interfaces.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.DecisionTrees.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.RandomForest.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.Containers.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.InputOutput.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.Common.Interfaces.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\SharpLearning.DecisionTrees.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MusParser.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MidiParser.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Release\MidiParser.dll.config
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Release\MusParser.dll

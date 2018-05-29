@@ -1,0 +1,97 @@
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MusParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MidiModel.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Midi.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MidiModel.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Midi.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MathExtension.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MathExtension.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.dll.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\KNN classification.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MidiParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.MachineLearning.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Math.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Statistics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Neuro.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Controls.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Math.Core.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Genetic.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\ZedGraph.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\KNN classification.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\KNN classification.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MidiParser.pdb
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MidiParser.exe.config
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.MachineLearning.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Math.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Statistics.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Neuro.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Controls.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Math.Core.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\Accord.Genetic.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\ZedGraph.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MusParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.exe
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MusParser.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\MusParser.application
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.TrustInfo.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.exe.manifest
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\obj\Debug\MusParser.application
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.RandomForest.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.InputOutput.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.Containers.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.Common.Interfaces.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.DecisionTrees.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.RandomForest.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.InputOutput.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.Containers.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.Common.Interfaces.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.DecisionTrees.xml
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.Metrics.dll
+C:\Users\David\Desktop\Neuronky\MidiParser\MusParser\bin\Debug\SharpLearning.Metrics.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MusParser.exe.manifest
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MusParser.application
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MusParser.exe
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MusParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MathExtension.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MidiModel.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MidiParser.exe
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\Midi.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.RandomForest.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.InputOutput.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.Containers.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.Common.Interfaces.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.DecisionTrees.dll
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MathExtension.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MidiModel.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MidiParser.pdb
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\MidiParser.exe.config
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\Midi.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.RandomForest.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.InputOutput.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.Containers.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.Common.Interfaces.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\bin\Debug\SharpLearning.DecisionTrees.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.csproj.CoreCompileInputs.cache
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.TrustInfo.xml
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.exe.manifest
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.application
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.exe
+D:\Dropbox\Ročníkový projekt\Attachment\Analyzer\MusParser\obj\Debug\MusParser.pdb
