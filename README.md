@@ -17,7 +17,7 @@ When considering the most usual major and minor modes, there are 24 different ke
 #### Chord sequences detection
 We use the harmonic structure as a representation of music at a higher abstract level (than simple notes) to **prolong the scope of the LSTM generative model**. Therefore we try to estimate the chord progressions with a help of the detected meter and key.
 
-![Illustration of an analysis](/_img/debussy.png "**Claude Debussy - Clair de Lune**: abstract piano-roll representation of first 6 beats with detected meter, key and chords.")
+![Illustration of an analysis](/_img/debussy_small.png "**Claude Debussy - Clair de Lune**: abstract piano-roll representation of first 6 beats with detected meter, key and chords.")
 
 ## Generative Model
 
