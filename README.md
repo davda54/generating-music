@@ -17,19 +17,26 @@ When considering the most usual major and minor modes, there are 24 different ke
 #### Chord sequences detection
 We use the harmonic structure as a representation of music at a higher abstract level (than simple notes) to **prolong the scope of the LSTM generative model**. Therefore we try to estimate the chord progressions with a help of the detected meter and key.
 
-![Alt text](/_img/debussy.png)
+![Illustration of an analysis](/_img/debussy.png "**Claude Debussy - Clair de Lune**: abstract piano-roll representation of first 6 beats with detected meter, key and chords.")
 
 ## Generative Model
 
 The generative model consists of three modules: Chord Predictor, Note Predictor and Volume Predictor. 
 
+![Illustration of the generative model](/_img/three_modules.png)
 
+**Chord Predictor** is used to generate the underlying chords, one chord per beat. It is trained on data obtained from the chord detector. The most important module is **Note Predictor**, which generates events – either note-ons, note-offs or shifts in time. The Note Predictor accepts a chord obtained from the Chord Predictor and the last event to generate a new event. If the event constitutes a start of a new note, then the **Volume Predictor** is used to assign a volume to that note. Each module processes information in a sequential manner – it predicts a new state based on all of the previous states. Hence we use an LSTM network as the base of each module.
 
+![Illustration of Note Predictor architecture](/_img/archicture.png)
 
+## Conclusion
 
+In order to evaluate the performance of the proposed model, we have conducted an **online survey**. The results show that there is still space for enhancement, but overall the artificial music was rated almost as good as the real music and was rather hard to distinguish (with **62.6% accuracy**).
 
+We hope the thesis shows that it is indeed possible to let computers compose music. Although the output is not perfect and is limited to a symbolic representation, it can create listenable compositions that are hard to distinguish from human-made music. 
 
-Chord Predictor is used to generate the underlying chords, one chord per beat. It is trained on data obtained from the chord detector. The most important module is Note Predictor, which generates events – either note-ons, note-offs or shifts in time. The Note Predictor accepts a chord obtained from the Chord Predictor and the last event to generate a new event. If the event constitutes a start of a new note, then the Volume Predictor is used to assign a volume to that note. Each module processes information in a sequential manner – it predicts a new state based on all of the previous states. Hence we use an LSTM network as the base of each module.
+![Surcey ratings](/_img/ratings.pdf)
+
 
 ## Overview of the Repository
 
