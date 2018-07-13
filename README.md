@@ -27,7 +27,7 @@ The generative model consists of three modules: Chord Predictor, Note Predictor 
 
 **Chord Predictor** is used to generate the underlying chords, one chord per beat. It is trained on data obtained from the chord detector. The most important module is **Note Predictor**, which generates events – either note-ons, note-offs or shifts in time. The Note Predictor accepts a chord obtained from the Chord Predictor and the last event to generate a new event. If the event constitutes a start of a new note, then the **Volume Predictor** is used to assign a volume to that note. Each module processes information in a sequential manner – it predicts a new state based on all of the previous states. Hence we use an LSTM network as the base of each module.
 
-![Illustration of Note Predictor architecture](/_img/archicture.png)
+![Illustration of Note Predictor architecture](/_img/architecture.png)
 
 ## Conclusion
 
@@ -35,7 +35,7 @@ In order to evaluate the performance of the proposed model, we have conducted an
 
 We hope the thesis shows that it is indeed possible to let computers compose music. Although the output is not perfect and is limited to a symbolic representation, it can create listenable compositions that are hard to distinguish from human-made music. 
 
-![Surcey ratings](/_img/ratings.pdf)
+![Surcey ratings](/_img/ratings.png)
 
 
 ## Overview of the Repository
