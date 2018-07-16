@@ -4,6 +4,7 @@ We have tried to create a **generative model capable of composing polyphonic mus
 
 We train three modules based on **LSTM neural networks** as the generative model; a lot of effort is put into reducing high complexity of multi- instrumental music representation by a thorough musical analysis.
 
+&nbsp;
 ## Musical Analysis
 
 We need to **reduce the complexity of input MIDI data** without significant compromises on the possible musical expression. Training a neural network without this reduction would be **impossible** for current state-of-the-art neural architectures because the space of raw MIDI files is too large. The analysis consists of three main procesures:
@@ -17,6 +18,7 @@ When considering the most usual major and minor modes, there are 24 different ke
 #### Chord sequences detection
 We use the harmonic structure as a representation of music at a higher abstract level (than simple notes) to **prolong the scope of the LSTM generative model**. Therefore we try to estimate the chord progressions with a help of the detected meter and key.
 
+&nbsp;
 ## Generative Model
 
 The generative model consists of three modules: Chord Predictor, Note Predictor and Volume Predictor. 
@@ -27,6 +29,7 @@ The generative model consists of three modules: Chord Predictor, Note Predictor 
 
 ![Illustration of Note Predictor architecture](/_img/architecture.png)
 
+&nbsp;
 ## Conclusion
 
 In order to evaluate the performance of the proposed model, we have conducted an **online survey**. The results show that there is still space for enhancement, but overall the artificial music was rated almost as good as the real music and was rather hard to distinguish (with **62.6% accuracy**).
@@ -35,7 +38,7 @@ We hope the thesis shows that it is indeed possible to let computers compose mus
 
 ![Surcey ratings](/_img/ratings.png)
 
-
+&nbsp;
 ## Overview of the Repository
 
 The repository is divided into four different folders that are briefly described below. More details can be found in readme files contained in each of them.
@@ -64,6 +67,7 @@ Files related to the online questionaire. Contains the 104 audio files used in t
 
 Single-page version of the bachelor thesis.
 
+&nbsp;
 ## BibTeX Citation
 
 ```
