@@ -66,6 +66,7 @@ Single-page version of the bachelor thesis.
 
 ## BibTeX Citation
 
+```
 @thesis{SAMUEL18,
   author    = {David Samuel},
   title     = {Artificial Composition of Multi-Instrumental Polyphonic Music},
@@ -74,4 +75,4 @@ Single-page version of the bachelor thesis.
   publisher = {Univerzita Karlova, Matematicko-fyzik{\'a}ln{\'\i} fakulta}
   url       = {https://is.cuni.cz/webapps/zzp/detail/194043/},
 }
-
+```
