@@ -17,8 +17,6 @@ When considering the most usual major and minor modes, there are 24 different ke
 #### Chord sequences detection
 We use the harmonic structure as a representation of music at a higher abstract level (than simple notes) to **prolong the scope of the LSTM generative model**. Therefore we try to estimate the chord progressions with a help of the detected meter and key.
 
-![Illustration of an analysis](/_img/debussy_small.png "**Claude Debussy - Clair de Lune**: abstract piano-roll representation of first 6 beats with detected meter, key and chords.")
-
 ## Generative Model
 
 The generative model consists of three modules: Chord Predictor, Note Predictor and Volume Predictor. 
@@ -65,3 +63,15 @@ Files related to the online questionaire. Contains the 104 audio files used in t
 #### Thesis.pdf
 
 Single-page version of the bachelor thesis.
+
+## BibTeX Citation
+
+@thesis{SAMUEL18,
+  author    = {David Samuel},
+  title     = {Artificial Composition of Multi-Instrumental Polyphonic Music},
+  year      = {2018},
+  type      = {Bachelor's Thesis}
+  publisher = {Univerzita Karlova, Matematicko-fyzik{\'a}ln{\'\i} fakulta}
+  url       = {https://is.cuni.cz/webapps/zzp/detail/194043/},
+}
+
