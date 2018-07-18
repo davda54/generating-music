@@ -4,7 +4,7 @@ We have tried to create a **generative model capable of composing polyphonic mus
 
 We train three modules based on **LSTM neural networks** as the generative model; a lot of effort is put into reducing high complexity of multi-instrumental music representation by a thorough musical analysis.
 
-[![YOUTUBE_SAMPLE](_img/youtube_screenshot.png)](https://youtu.be/1QRBs8OeRuo "Nirvana - Lithium: Improvisation")
+[![YOUTUBE_SAMPLE](_img/youtube_screenshot.png)](https://www.youtube.com/watch?v=loztbOaOWn8&list=PLKptFqEtV0Vz_mThxehdBQPI7Xy5KTaLW)
 
 &nbsp;
 ## Musical Analysis
@@ -63,7 +63,7 @@ Sample files outputed from the models contained in the Generative Model folder. 
 
 #### Survey
 
-Files related to the online questionaire. Contains the 104 audio files used in the questionaire and also a table with all answers from 293 users.
+Files related to the [online questionaire](http://dotaznik.neqindi.cz/index.php?lang=en). Contains the 104 audio files used in the questionaire and also a table with all answers from 293 users.
 
 #### Thesis.pdf
 
