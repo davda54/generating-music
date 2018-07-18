@@ -2,9 +2,9 @@
 
 We have tried to create a **generative model capable of composing polyphonic music**. Contrary to other work in the same field, our goal was to generate music with **multiple instruments** playing simultaneously to cover a broader musical space. 
 
-We train three modules based on **LSTM neural networks** as the generative model; a lot of effort is put into reducing high complexity of multi- instrumental music representation by a thorough musical analysis.
+We train three modules based on **LSTM neural networks** as the generative model; a lot of effort is put into reducing high complexity of multi-instrumental music representation by a thorough musical analysis.
 
-<audio src="Samples/Good/piano.mp3" controls preload></audio>
+[![YOUTUBE_SAMPLE](_img/youtube_screenshot.png)](https://youtu.be/1QRBs8OeRuo "Nirvana - Lithium: Improvisation")
 
 &nbsp;
 ## Musical Analysis
