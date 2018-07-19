@@ -1,0 +1,1 @@
+Put all .mus files (compressed into one big file), that are used as input to the learning algorithm, here.

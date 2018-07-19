@@ -1,0 +1,1 @@
+Put all .mus files, that prime a generated song, here
