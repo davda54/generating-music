@@ -77,8 +77,8 @@ Single-page version of the bachelor thesis.
   author    = {David Samuel},
   title     = {Artificial Composition of Multi-Instrumental Polyphonic Music},
   year      = {2018},
-  type      = {Bachelor's Thesis}
-  publisher = {Univerzita Karlova, Matematicko-fyzik{\'a}ln{\'\i} fakulta}
+  type      = {Bachelor's Thesis},
+  publisher = {Univerzita Karlova, Matematicko-fyzik{\'a}ln{\'\i} fakulta},
   url       = {https://is.cuni.cz/webapps/zzp/detail/194043/},
 }
 ```
